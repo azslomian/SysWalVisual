@@ -1,0 +1,14 @@
+E:\users\azslo\onedrive\documents\visual studio 2015\Projects\SysWal\SysWal\bin\Debug\SysWal.exe.config
+E:\users\azslo\onedrive\documents\visual studio 2015\Projects\SysWal\SysWal\bin\Debug\SysWal.exe
+E:\users\azslo\onedrive\documents\visual studio 2015\Projects\SysWal\SysWal\bin\Debug\SysWal.pdb
+E:\users\azslo\onedrive\documents\visual studio 2015\Projects\SysWal\SysWal\obj\Debug\SysWal.csprojResolveAssemblyReference.cache
+E:\users\azslo\onedrive\documents\visual studio 2015\Projects\SysWal\SysWal\obj\Debug\SysWal.Start.resources
+E:\users\azslo\onedrive\documents\visual studio 2015\Projects\SysWal\SysWal\obj\Debug\SysWal.Properties.Resources.resources
+E:\users\azslo\onedrive\documents\visual studio 2015\Projects\SysWal\SysWal\obj\Debug\SysWal.csproj.GenerateResource.Cache
+E:\users\azslo\onedrive\documents\visual studio 2015\Projects\SysWal\SysWal\obj\Debug\SysWal.exe
+E:\users\azslo\onedrive\documents\visual studio 2015\Projects\SysWal\SysWal\obj\Debug\SysWal.pdb
+E:\users\azslo\onedrive\documents\visual studio 2015\Projects\SysWal\SysWal\obj\Debug\SysWal.Menu.resources
+E:\users\azslo\onedrive\documents\visual studio 2015\Projects\SysWal\SysWal\obj\Debug\SysWal.Menu2.resources
+E:\users\azslo\onedrive\documents\visual studio 2015\Projects\SysWal\SysWal\obj\Debug\SysWal.SignUp.resources
+E:\users\azslo\onedrive\documents\visual studio 2015\Projects\SysWal\SysWal\obj\Debug\SysWal.Statistic.resources
+E:\users\azslo\onedrive\documents\visual studio 2015\Projects\SysWal\SysWal\obj\Debug\SysWal.PayStatistic.resources
